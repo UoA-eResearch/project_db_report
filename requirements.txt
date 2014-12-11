@@ -1,0 +1,4 @@
+MySQL-python
+matplotlib
+lxml
+python-docx
